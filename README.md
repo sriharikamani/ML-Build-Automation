@@ -28,3 +28,6 @@ o	SMOTETomek / SMOTE / SMOTENC
 The tool is a SMART, meaning
 -	Validates the possible options based the problem type (Classification & Regression)
 -	Final outcome will be a GUI based different metrics stats format shown in GUI to help data scientists to decide on which model will combination of options to take it forward without extensive programming knowledge
+-
+
+ Run the driver program MLAuto_Driver.py at the command prompt
