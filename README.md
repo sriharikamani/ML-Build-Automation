@@ -30,4 +30,4 @@ The tool is a SMART, meaning
 -	Final outcome will be a GUI based different metrics stats format shown in GUI to help data scientists to decide on which model will combination of options to take it forward without extensive programming knowledge
 -
 
- Run the driver program MLAuto_Driver.py at the command prompt
+ Run the driver program MLAuto_Driver.py at the command prompt. With python 3.8.16 tested the app and working as expected.
